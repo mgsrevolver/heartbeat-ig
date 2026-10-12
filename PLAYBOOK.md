@@ -1,0 +1,62 @@
+# Instagram playbook: @join.heartbeat
+
+**Who we're talking to:** people who run, or want to run, a paid online community. That means coaches, consultants, educators, creators, experts and niche organisers. They want members who stay, income that grows, and less tool sprawl.
+
+**What a good post does:** teaches or shows something concrete in the first second, makes a community builder feel seen, and makes Heartbeat look like the obvious home for their community. Get creative. Variety beats a template.
+
+## Standing notes from Clay
+
+Newest first. The routine adds these when Clay's reply contains a standing instruction.
+
+- 2026-10-12: **No Creator Economy Report survey content** (stats, quotes, "take the survey") until Clay says the survey is closed. Three survey posts already ran 10/10-10/11. Once he says it's closed, the published report becomes a pillar.
+- 2026-10-12: Default to one post a day. Reels and carousels over single images.
+
+## Pillars (rotate; don't repeat the last two)
+
+| Pillar | What it looks like | Where to get it |
+|---|---|---|
+| **Featured community** | One community from the directory: who it's for, what makes it unusual, one detail from its listing. Carousel with their listing screenshot, or a 10s reel scrolling it. | Live listings at heartbeat.chat/directory (FACTS.md) |
+| **Unusual use cases** | "You can run a paid community for *that*?" Vets, care-home managers, container garden designers, Payback-points collectors, worship singers. Roundups of 4-6 niches work well. | Directory, customer stories |
+| **Customer story** | One number + one decision that got them there. Hook on the number. | heartbeat.chat/stories (FACTS.md) |
+| **Feature, shown** | A real Heartbeat feature, old or new, in use: screenshot, GIF or screen recording. Explain what happens, flatly. No hype. | heartbeat.chat/features + /feature/<slug>, /branded-app, /pricing; Slack product channels (read only) for things that already launched publicly |
+| **Tool demo** | Screen-record the pricing calculator answering a real question ("what should a fitness coach charge?"). | heartbeat.chat/tools/membership-pricing-calculator |
+| **Proof in numbers** | Platform-scale stats framed around the creator ("50+ creators have passed $100K"). | FACTS.md only |
+| **Playbook / tips** | 5-7 slide how-to from a Heartbeat guide or /for page, ending on "full guide on heartbeat.chat". | heartbeat.chat/blog, /for, /compare |
+| **Creator-economy observation** | A fresh trend, stat or news item from the last ~2 weeks, plus our take for community builders. Cite the source in the email (and on-slide if it's a stat). | WebSearch / WebFetch |
+| **Myth vs reality / hot take** | A belief community builders hold, and what actually happens. | Stories, guides, observations |
+
+Rough format mix: 40% reels, 40% carousels, 20% single image or other. Try new formats too: "guess the number" reels, before/after, POV, tier lists, "things nobody tells you", screenshot teardowns.
+
+## Sources the routine can use (cloud)
+
+- Public site: heartbeat.chat (directory, stories, features, pricing, tools, blog, /for, /compare). Screenshot or screen-record with headless Chromium at 1080 wide or a 430px mobile viewport, device scale 2.
+- Community landing/join pages linked from directory listings (public pages only, never member-only content).
+- Heartbeat Help Center articles have feature screenshots and GIFs, but the site blocks bots. Try WebFetch once, and skip it if blocked.
+- Slack connector, **read only**. Look for shipped features and wins, and use only what is already public. Never send or react.
+- Windsor `get_data` on connector `instagram_public` / `instagram` for our own past posts' reach and engagement. Lean into what worked.
+- No internal databases (HubSpot, PostHog, Stripe) in the cloud. Numbers come from FACTS.md or a cited public page.
+
+## Brand
+
+- Colours: cream `#FFF7F0` background, ink `#1F1418`, logo gradient `#F91E87 → #FD8467 → #FFBA54` (left to right). Night `#0A0D12` for contrast posts.
+- Type: Inter (bold/extra-bold headlines, regular body) + Instrument Serif italic for the emphasis word and big numbers. Both are in `fonts/`, wired up via `{{BRAND}}`.
+- Every feed slide and reel ends with the wordmark (`brand/heartbeat-wordmark-black.svg` on light, `-white` on dark/gradient). Never recreate the logo in text.
+- Components in `tools/brand.css`: `.pill .big .head em .sub .card .split .list .li .quote .shot .phone .cta .foot .reel-foot`.
+- Reels: 1080x1920. Keep text out of the top 220px and the bottom 340px (IG UI). Hook on screen in the first second. 7-30s. Hard cuts or 0.2s fades. Hold the payoff beat longer.
+- Carousels: 3-10 slides, 1080x1350. Slide 1 is the hook and only the hook. Last slide is a soft CTA (follow, save, or "heartbeat.chat").
+- Screenshots go in `.shot` (rounded, shadowed) or `.phone` frames on the cream background. Crop to the interesting part. Blur or crop out member names, faces and emails unless they belong to the featured community's public listing.
+
+## Copy rules (check every caption and slide)
+
+1. **No em dashes.** None. Use commas or periods.
+2. No "it's not X, it's Y". No "Here's the thing". No corporate filler ("unlock", "elevate", "seamless", "game-changing", "robust", "powerful").
+3. Name the noun. "$27M+ paid out to creators" beats "real results". See `reference/concreteness-rule.md`.
+4. Community-first framing: "build a community people will pay for". **Never** "turn your community into a business" or "monetize your audience".
+5. Numbers: only from FACTS.md (rounded floors like 50+, never exact) or a public source you cite. **Never** Heartbeat's own revenue, ARR, funding or customer counts beyond FACTS.md. "37,000+ communities **created**", never "running" or "active".
+6. Names: customers with a published story (FACTS.md) and communities with a live directory listing can be named. Anyone else stays anonymous. Survey/interview quotes are always unattributed. Flag every named person or community in the preview email.
+7. Competitors: we can compare honestly, but never mock or name-and-shame. If a competitor is named, flag it.
+8. No promises of income ("make $10K/month"). Say what real creators did, as fact.
+9. Features: describe only what exists today, as it works today. Don't preannounce anything from Slack that isn't public.
+10. Voice: warm, direct, a little playful. `&` is fine. Emojis in moderation, 💛 🧡 are house favourites. `→` for caption lists.
+
+**Caption shape:** a hook line under ~125 chars (it's all that shows before "more"). Then 2-6 short lines, then one CTA ("Follow for more", "Save this for later", "Comment GUIDE and we'll send it", or "heartbeat.chat"). Then 3-6 relevant hashtags (#communitybuilding #onlinecommunity #creatoreconomy #membershipsite #coachingbusiness, plus niche tags). Max 2,200 chars.

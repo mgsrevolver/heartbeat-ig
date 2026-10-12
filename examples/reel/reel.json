@@ -1,0 +1,2 @@
+{"out": "media/reel.mp4", "fade": 0.2, "audio": null,
+ "scenes": [{"html": "src/scene-01.html", "seconds": 2.5}, {"html": "src/scene-02.html", "seconds": 3}]}
