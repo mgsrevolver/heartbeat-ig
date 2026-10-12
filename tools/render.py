@@ -59,12 +59,15 @@ def render(html: pathlib.Path, out: pathlib.Path, w: int, h: int, chrome: str) -
     tmp = prepare(html, w, h)
     png = out / (html.stem + ".png")
     args = [chrome, "--headless=new", "--no-sandbox", "--hide-scrollbars", "--disable-gpu", "--force-device-scale-factor=1",
-            f"--window-size={w},{h}", "--virtual-time-budget=8000", "--allow-file-access-from-files",
+            f"--window-size={w},{h+200}", "--virtual-time-budget=8000", "--allow-file-access-from-files",
             f"--screenshot={png}", tmp.as_uri()]
     r = subprocess.run(args, capture_output=True, text=True)
     tmp.unlink(missing_ok=True)
     if not png.exists():
         sys.exit(f"render failed for {html}:\n{r.stderr[-2000:]}")
+    cropped = png.with_name(png.stem + ".crop.png")
+    subprocess.run([find_ffmpeg(), "-y", "-loglevel", "error", "-i", str(png), "-vf", f"crop={w}:{h}:0:0", str(cropped)], check=True)
+    cropped.replace(png)
     jpg = out / (html.stem + ".jpg")
     to_jpeg(png, jpg)
     print(f"{jpg}  {jpg.stat().st_size // 1024} KB  {w}x{h}")
