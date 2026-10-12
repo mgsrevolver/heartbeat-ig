@@ -11,14 +11,14 @@ Approved by Clay for marketing copy (Testimonials & Metrics Cheat Sheet, updated
 | 50+ countries | |
 | $27M+ paid out to creators | through Heartbeat Payments |
 | 90,000+ transactions | |
-| 50+ creators past $100K | |
-| 400+ creators past $10K | |
-| 1,100+ creators past their first $1K | |
+| Dozens of creators have earned over $100K | Clay's preferred wording (2026-10-12); avoid "50+" |
+| ~~400+ creators past $10K~~ | Don't publish: too small (Clay 2026-10-12) |
+| ~~1,100+ creators past their first $1K~~ | Don't publish: too small (Clay 2026-10-12) |
 | 30,000+ courses created | |
 | 30,000+ workflows created | |
 | 250,000+ events hosted | |
 | 40,000+ creators launched or grew a community | |
-| 2,700+ new communities in our record month | |
+| 2,700+ new communities in our record month | Use sparingly, only next to bigger figures |
 
 For prices, tiers and fees, fetch heartbeat.chat/pricing on the day and quote it exactly. Never from memory.
 
