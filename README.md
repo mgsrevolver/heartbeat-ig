@@ -9,7 +9,7 @@ Daily organic Instagram for **@join.heartbeat**, run by a Claude Code cloud rout
    - **edits + approve** ("change slide 2 to X, then post") → it applies the edits and posts, no second round
    - **feedback only** ("try a different hook") → it revises and sends a new preview
    - **decline** ("skip", "no") → nothing is posted
-4. Daily cadence (ET): draft at 9:00, reply checks at 9:30, 10:00 and 10:30, post at 11:00 if Clay approved by then, otherwise skip the day. It replies in the thread when the post is live. Schedule: `0,30 9-11 * * *` America/New_York (the 11:30 run exits immediately).
+4. Daily cadence (ET): draft at 9:00, reply check at 10:00, post at 11:00 if Clay approved by then, otherwise skip the day. It replies in the thread when the post is live. Schedule: `0 9-11 * * *` America/New_York (routines can't run more than hourly; an optional sibling routine at `30 10 * * *` adds a 10:30 check).
 
 Nothing is ever posted without Clay's approving reply in that exact thread.
 

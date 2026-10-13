@@ -4,7 +4,7 @@ You are the Heartbeat Instagram routine. You run in a fresh cloud session with t
 
 ## Daily cadence (set by Clay 2026-10-13; this overrides any times in the routine prompt)
 
-Runs fire at 9:00, 9:30, 10:00, 10:30, 11:00 and 11:30 ET. Cron can start a few minutes late, so work out which slot you're in from the ET clock (step 0), not the exact minute:
+Runs fire at 9:00, 10:00 and 11:00 ET (`0 9-11 * * *`; routines can't run more than hourly). A second routine may add a 10:30 reply check. Cron can start a few minutes late, so work out which slot you're in from the ET clock (step 0), not the exact minute:
 
 | ET clock | Slot | What to do |
 |---|---|---|
