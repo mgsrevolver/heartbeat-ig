@@ -10,4 +10,5 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-11 | creator-report-quotes | Survey (paused) | Carousel | posted | scheduled by Clay 10/10 | @join.heartbeat |
 | 2026-10-10 | creator-report-guess-the-stat | Survey (paused) | Reel | posted | scheduled by Clay 10/10 | @join.heartbeat |
 | 2026-10-10 | creator-report-early-peek | Survey (paused) | Carousel (7) | posted | approved | media 17912751375542982 |
-| 2026-10-13 | paid-community-for-that | Unusual use cases | Carousel (7) | posted | edits + approve (community logos added) | media 17972519766072140 |
+| 2026-10-13 | paid-community-for-that | Unusual use cases | Carousel (7) | deleted | gradient cover; Clay deleted to repost with a photo collage cover | media 17972519766072140 |
+| 2026-10-13 | paid-community-for-that (v2) | Unusual use cases | Carousel (7) | ready | new photo-collage cover, posted from Cortex on Clay's go | |

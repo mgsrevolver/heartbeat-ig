@@ -1,2 +1,27 @@
-<!doctype html><html><head><meta charset="utf-8">{{BRAND}}</head>
-<body class="dark"><div class="frame"><div class="pill">Live on Heartbeat</div><div class="head" style="font-size:104px;margin-top:300px">You can build a community for <em>that?</em></div><div class="sub" style="font-size:42px;margin-top:44px">5 real ones on Heartbeat →</div></div><div class="foot"><img src="{{ROOT}}/brand/heartbeat-wordmark-white.svg"><span>1/7</span></div></body></html>
+<!doctype html><html><head><meta charset="utf-8">{{BRAND}}
+<style>
+.mosaic { position:absolute; left:0; right:0; top:0; height:820px; display:grid; gap:10px;
+          grid-template-columns:420px 1fr 1fr; grid-template-rows:1fr 1fr; background:var(--cream); }
+.tile { position:relative; overflow:hidden; }
+.tile img { width:100%; height:100%; object-fit:cover; display:block; }
+.tile.tall { grid-row:1 / span 2; }
+.tag { position:absolute; left:20px; bottom:20px; background:rgba(255,247,240,.94); color:var(--ink);
+       font-size:24px; font-weight:700; padding:10px 18px; border-radius:999px; }
+.copy { position:absolute; left:92px; right:92px; top:880px; }
+.copy .head { font-size:92px; margin-top:0; }
+.copy .sub { font-size:38px; margin-top:24px; }
+</style></head>
+<body>
+<div class="mosaic">
+  <div class="tile tall"><img src="assets/photo-vet.jpg" style="object-position:55% 40%"><span class="tag">Vet practices</span></div>
+  <div class="tile"><img src="assets/photo-miles.jpg" style="object-position:35% 50%"><span class="tag">Air miles</span></div>
+  <div class="tile"><img src="assets/photo-painting.jpg" style="object-position:30% 50%"><span class="tag">Painting</span></div>
+  <div class="tile"><img src="assets/photo-waterfall.jpg" style="object-position:55% 60%"><span class="tag">Photography</span></div>
+  <div class="tile"><img src="assets/photo-care.jpg" style="object-position:40% 50%"><span class="tag">Caregiving</span></div>
+</div>
+<div class="copy">
+  <div class="head">You can build a community for <em>that?</em></div>
+  <div class="sub">5 real ones on Heartbeat →</div>
+</div>
+<div class="foot"><img src="{{ROOT}}/brand/heartbeat-wordmark-black.svg"><span>1/7</span></div>
+</body></html>

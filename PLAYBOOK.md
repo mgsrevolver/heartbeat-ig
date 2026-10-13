@@ -8,6 +8,9 @@
 
 Newest first. The routine adds these when Clay's reply contains a standing instruction.
 
+- 2026-10-13: **Don't default to the pink-to-orange gradient cover.** Every carousel opening on the same gradient makes the profile grid look samey. Use the gradient cover only for data-driven or text-led posts (a big number, a hot take). Anything about communities, niches or people opens on imagery: a photo collage, a grid of community logos, a screenshot or a single strong photo. Before picking slide 1, look at the last 3 covers in LOG.md and don't repeat the same style. Example: `posts/2026-10-13-paid-community-for-that/src/slide-01.html` (photo mosaic with niche tags, cream band with the hook).
+- 2026-10-13: **Every community slide gets a picture of that community.** First-party (their logo or cover art from the directory listing) first. Otherwise a relevant royalty-free photo. Unsplash blocks bots, so search Openverse instead: `https://api.openverse.org/v1/images/?q=<terms>&license=cc0&source=stocksnap,rawpixel`. Those are CC0, so no credit is needed on-slide. Record each photo's source URL in `posts/<slug>/CREDITS.md`. Avoid photos with military or agency insignia, needles or medical procedures, readable name badges, or faces that look staged.
+
 - 2026-10-12: **Never share low numbers. We want to appear bigger.** Lead with the biggest figure ($27M+ paid out, 37,000+ communities, 750,000+ members). Don't publish the small milestone counts (1,100+ past $1K, 400+ past $10K). For $100K earners, say "dozens of creators have earned over $100K", not "50+". Small numbers about *a creator's* starting point are fine as story ("every community starts at zero").
 
 - 2026-10-12: **No Creator Economy Report survey content** (stats, quotes, "take the survey") until Clay says the survey is closed. Three survey posts already ran 10/10-10/11. Once he says it's closed, the published report becomes a pillar.
