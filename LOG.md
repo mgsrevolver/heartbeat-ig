@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-14 | dewayne-honesty | Customer story | Video (24s), source: Dewayne Overcomes Fear to Share Business Truths Online, cover: type-led night | previewed | | |
 | 2026-10-14 | 10k-email-club-pricing | Customer story | Reel (6 scenes), cover: night type-led | rejected | feedback: no more stories from the 7 on /stories; find a new case study. None found publicly, asked Clay for a lead | |
 | 2026-10-13 | paid-community-for-that | Unusual use cases | Carousel (7) | previewed | | |
 | 2026-10-12 | creator-milestone-ladder | Proof in numbers | Carousel (3) | posted | edits + approve | media 17983161110901300 |
