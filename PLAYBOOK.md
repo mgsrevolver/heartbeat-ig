@@ -8,7 +8,8 @@
 
 Newest first. The routine adds these when Clay's reply contains a standing instruction.
 
-- 2026-10-14: **Pause customer stories from the 7 on heartbeat.chat/stories** (Emily, Kat, Allie/Level Up Ladies, etc. are exhausted). A specific case study or glow-up is OK only if it is NOT one of those 7. Find a new one and send it for review; if no public source exists, ask Clay for a lead instead of drafting.
+- 2026-10-14: **Every other day is a video day.** Alternate a Riverside clip (customer interviews, webinars, town halls; procedure in `VIDEO.md`) with a still post (carousel, rendered reel or image). Clips from the 7 /stories interviews are OK on video, **new angles only**: a point we haven't posted, never the same headline number as the hook.
+- 2026-10-14: **Pause customer stories from the 7 on heartbeat.chat/stories** (applies to still posts; video clips of them are OK with a new angle, see the note above). (Emily, Kat, Allie/Level Up Ladies, etc. are exhausted). A specific case study or glow-up is OK only if it is NOT one of those 7. Find a new one and send it for review; if no public source exists, ask Clay for a lead instead of drafting.
 - 2026-10-14: **Featured directory community posts are OK, with rough/rounded/directional size or numbers allowed.** Clay suggested this as the next idea after pausing customer stories.
 - 2026-10-13: **The gradient is never the default slide 1.** A pink-to-orange gradient cover on every carousel makes the profile grid look samey. Use it as slide 1 only for data, survey or drier non-visual posts (a big number, a stat roundup, a hot take), and even then only occasionally. The gradient is fine on later slides (a stat beat, the CTA). Every other post opens on imagery: a photo collage, a grid of community logos, a screenshot, a phone mockup or one strong photo. Before choosing slide 1, check the last 3 covers in LOG.md (noted in the Format column) and don't repeat a style, and never post two gradient covers in a row. Example of an image-led cover: `posts/2026-10-13-paid-community-for-that/src/slide-01.html` (photo mosaic with niche tags, cream band with the hook).
 - 2026-10-13: **Every community slide gets a picture of that community.** First-party (their logo or cover art from the directory listing) first. Otherwise a relevant royalty-free photo. Unsplash blocks bots, so search Openverse instead: `https://api.openverse.org/v1/images/?q=<terms>&license=cc0&source=stocksnap,rawpixel`. Those are CC0, so no credit is needed on-slide. Record each photo's source URL in `posts/<slug>/CREDITS.md`. Avoid photos with military or agency insignia, needles or medical procedures, readable name badges, or faces that look staged.
@@ -32,7 +33,7 @@ Newest first. The routine adds these when Clay's reply contains a standing instr
 | **Creator-economy observation** | A fresh trend, stat or news item from the last ~2 weeks, plus our take for community builders. Cite the source in the email (and on-slide if it's a stat). | WebSearch / WebFetch |
 | **Myth vs reality / hot take** | A belief community builders hold, and what actually happens. | Stories, guides, observations |
 
-Rough format mix: 40% reels, 40% carousels, 20% single image or other. Try new formats too: "guess the number" reels, before/after, POV, tier lists, "things nobody tells you", screenshot teardowns.
+Format mix: half the days are Riverside video clips (see VIDEO.md). The other half: mostly carousels and rendered reels, with the odd single image. Try new formats too: "guess the number" reels, before/after, POV, tier lists, "things nobody tells you", screenshot teardowns.
 
 ## Sources the routine can use (cloud)
 

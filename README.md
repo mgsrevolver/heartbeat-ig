@@ -2,7 +2,7 @@
 
 Daily organic Instagram for **@join.heartbeat**, run by a Claude Code cloud routine.
 
-1. Once a day the routine drafts one post (carousel, reel or single image) from public Heartbeat material, product news and creator-economy observations.
+1. Once a day the routine drafts one post. Days alternate: a video clip cut from Heartbeat's Riverside recordings, then a carousel, rendered reel or single image from public Heartbeat material, product news and creator-economy observations.
 2. It emails Clay a preview at clay@heartbeat.chat. Subject starts with `IG draft:`.
 3. Clay replies in that thread, in plain words:
    - **approve** ("post it", "yes", "go") → it posts as-is
@@ -18,6 +18,8 @@ Nothing is ever posted without Clay's approving reply in that exact thread.
 | Path | What |
 |---|---|
 | `ROUTINE.md` | Step-by-step procedure the routine follows every run. **The routine prompt just says "follow ROUTINE.md"**, so edit this file to change behaviour. |
+| `VIDEO.md` | Video-day procedure: find, cut and publish a Riverside clip |
+| `videos-used.md` | Ledger of Riverside clips already drafted |
 | `PLAYBOOK.md` | Content pillars, formats, brand, copy rules, standing notes from Clay |
 | `FACTS.md` | Approved numbers, publishable customer stories, public URLs |
 | `LOG.md` | One row per post: date, pillar, format, status, link |
@@ -30,6 +32,6 @@ Nothing is ever posted without Clay's approving reply in that exact thread.
 
 1. **Give the Claude GitHub App this repo.** github.com → Settings → Applications → Installed GitHub Apps → Claude → Configure → Repository access → add `heartbeat-ig`. That is why it was missing from the routine's repo dropdown.
 2. **Make this repo public.** Instagram fetches media from a public URL, and previews embed the same URLs. Media is served through jsDelivr from this repo, which only works for public repos. Nothing secret lives here.
-3. The routine needs the Gmail and Windsor.ai connectors at claude.ai/customize/connectors. Both are connected today.
+3. The routine needs the Gmail, Windsor.ai and Riverside connectors at claude.ai/customize/connectors, each attached to the routine. Windsor publishes stills; Riverside cuts and publishes the video-day clips (`VIDEO.md`), which needs Instagram connected inside each Riverside source studio.
 
 Local test: `python3 tools/render.py examples/carousel/src/*.html --out /tmp/out` and `python3 tools/reel.py examples/reel/reel.json`.
