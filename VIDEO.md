@@ -56,7 +56,7 @@ Skip the other studios (Sample 1, Co-Marketing, live-event tests) and the "sting
 
 Same as ROUTINE.md step 2.8, with:
 - Subject: `IG draft: <short title> · <pillar> · Video`.
-- Media block: the cover image inline, a **"Watch the cut in Riverside"** link to the clone's `riversideUrl`, the duration, and the full kept transcript in a light box (so Clay can approve from his phone without opening Riverside).
+- Media block: **first thing in the email, the cover image at full 360px width under a bold label "COVER (what the profile grid shows)"** with its quote typed out beneath it, so Clay reviews it on purpose (10/14: he missed the cover and it went live). Then a **"Watch the cut in Riverside"** link to the clone's `riversideUrl`, the duration, and the full kept transcript in a light box (so Clay can approve from his phone without opening Riverside).
 - Flags: every named person, the source recording, anything from a town hall, and "Riverside may add a watermark if the plan requires one."
 - State line `format` is `"video"` and it also carries `"riverside":{"editId","studioId","thumbnailMediaId"|null,"thumbnailOffset"|null,"durationMs"}`. `files` is `[]` and `cover` is `"reel-cover.jpg"`.
 
