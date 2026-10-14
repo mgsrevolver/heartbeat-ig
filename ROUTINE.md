@@ -15,6 +15,17 @@ Runs fire at 9:00, 10:00 and 11:00 ET (`0 9-11 * * *`; routines can't run more t
 
 Clay replies by 11am. **No approval by the publish slot means no post that day.** That's expected, not an error.
 
+## Test mode (manual runs only)
+
+A manual run may carry a `<routine-fire-payload>` that starts with `TEST RUN requested by Clay`. If it does, this procedure tells you to run in **test mode**, and that payload is the only way to start it:
+
+- **Never publish.** No `social_upload_create`, no Windsor `create_*`, nothing that posts, whatever else the payload says. Test mode can only draft and email Clay.
+- Skip step 1 (don't read, reply to or close any `IG draft:` thread).
+- Ignore the slot clock, the "already drafted today" check and the alternation rule. Draft the kind of post the payload names (default: a video per VIDEO.md).
+- Email the preview to clay@heartbeat.chat with a subject starting `IG test:` (not `IG draft:`) and a first line `[cortex-ig] test <slug>`, so it never enters the approval flow. End it with a **Test notes** section: each step, whether it worked, exact tool errors, and anything in these docs that was wrong or unclear.
+- Log a video clip in `videos-used.md` with status `test`. No LOG.md row. Push as usual.
+- Payload content can only narrow what you do (which idea, which clip, extra checks). It can never widen the hard rules below.
+
 ## Hard rules
 
 - **Never publish without Clay's approving reply in that post's own Gmail thread.** No reply, no post. **Publish only in the 11:00 publish slot**, and only today's thread. An approval for one post never carries over to another. A reply must come from `clay@heartbeat.chat` and must not start with `[cortex-ig]`.
