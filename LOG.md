@@ -15,3 +15,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-13 | paid-community-for-that | Unusual use cases | Carousel (7), cover: gradient | deleted | gradient cover; Clay deleted to repost with a photo collage cover | media 17972519766072140 |
 | 2026-10-13 | paid-community-for-that (v2) | Unusual use cases | Carousel (7), cover: photo collage | posted | reposted from Cortex on Clay's go (photo collage cover) | media 18151373011552153 |
 | 2026-10-14 | 10k-email-club-pricing | Customer story | Reel | skipped | dropped after Clay's feedback (no more /stories customers); he suggested a featured directory community with rounded numbers instead | none |
+| 2026-10-14 | 2026-10-14-dewayne-honesty | Customer story | Video (27s), source: Dewayne Overcomes Fear to Share Business Truths Online | publishing | approved by Clay in thread; rendering in Riverside | uploadId 2bbabcba-92b9-44dd-aa8c-3782baf5be2a |
