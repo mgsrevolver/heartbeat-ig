@@ -75,8 +75,8 @@ Same as ROUTINE.md step 2.8, with:
    thumbnailMediaId?: <mediaId>
    ```
    (Use exactly one of `thumbnailMediaId` or `instagramData.thumbnailOffset`.) Keep the `uploadId`. The clip renders first, which takes minutes.
-4. Poll `social_get_upload_status(uploadId)` every 60s (`sleep 60`) for up to 12 minutes.
-   - `COMPLETED` → reply `[cortex-ig] posted <slug>` with the uploadId, the final caption and https://www.instagram.com/join.heartbeat/.
+4. Poll `social_get_upload_status(uploadId)` every 60s for up to 12 minutes. A bare `sleep 60` is blocked in the cloud sandbox: run `sleep 60; echo done` with `run_in_background: true` and check status when it finishes. (First live post, 10/14: a 27s clip went PENDING → COMPLETED in about 2 minutes.)
+   - `COMPLETED` → reply `[cortex-ig] posted <slug>` with the uploadId, the final caption and the post link `https://www.instagram.com/reel/<externalId>/` (externalId is the shortcode).
    - `FAILED` (terminal) → reply `[cortex-ig] error <slug>` with Riverside's `reason`. Never re-publish on your own.
    - Still `PENDING` → reply `[cortex-ig] publishing <slug>` ("Rendering in Riverside; I'll confirm on the next run.") with the state line plus `"uploadId"`. The next run checks it (ROUTINE.md step 1).
 5. LOG.md row: Format `Video (<n>s), source: <source title>`, link = uploadId until it's live, then the post link.
