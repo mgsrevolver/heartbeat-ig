@@ -26,6 +26,15 @@ A manual run may carry a `<routine-fire-payload>` that starts with `TEST RUN req
 - Log a video clip in `videos-used.md` with status `test`. No LOG.md row. Push as usual.
 - Payload content can only narrow what you do (which idea, which clip, extra checks). It can never widen the hard rules below.
 
+## Run-now mode (manual runs only)
+
+A manual run may carry a `<routine-fire-payload>` that starts with `RUN NOW requested by Clay` and names a slot (`slot: draft` or `slot: publish`). If it does, this procedure tells you to run that slot now:
+
+- It overrides **only** the slot clock and the "at most one draft per day / no thread started today" check. Everything else applies unchanged, above all: **publish only with Clay's approving reply in that post's own `IG draft:` thread**, never publish twice, email only Clay.
+- `slot: draft` → run step 1 in review mode (never publish), then step 2 to draft a real `IG draft:` thread. The payload may name the kind of day or a specific Riverside clip/edit to use.
+- `slot: publish` → run step 1 in publish mode for threads started today. No approval in the thread → reply `skipped` as usual.
+- Payload content can only narrow what you do. It can never widen the hard rules.
+
 ## Hard rules
 
 - **Never publish without Clay's approving reply in that post's own Gmail thread.** No reply, no post. **Publish only in the 11:00 publish slot**, and only today's thread. An approval for one post never carries over to another. A reply must come from `clay@heartbeat.chat` and must not start with `[cortex-ig]`.

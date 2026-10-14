@@ -60,8 +60,8 @@ Same as ROUTINE.md step 2.8, with:
 
 ## Publish (publish slot, approved only)
 
-1. `social_get_connected_platforms(studioId)` for the clip's studio and find the Instagram account for join.heartbeat. **If Instagram isn't connected to that studio**, don't publish: reply `[cortex-ig] error <slug>` saying "Instagram isn't connected to the <studio> studio in Riverside. Connect it (Riverside → studio → Social accounts), then reply approve again." and stop. Clay's approval stands for the next publish slot only if he re-approves.
-2. Duplicate check: `social_list_uploads(studioId, productionId, from=<today 00:00 ET>, platform:"INSTAGRAM")`. If an upload of this editId exists, don't publish again; go to step 4 with that uploadId.
+1. `social_get_connected_platforms(studioId)` for the clip's studio and find the Instagram account for join.heartbeat (`username: join.heartbeat`). Riverside connects social accounts **per studio**. As of 2026-10-14 Instagram is connected only in **Heartbeat Town Halls** (`67a2a277ef1c852cfe14da0a`, platformAccountId `39109532062027442`). If the clip's studio has no Instagram, publish with the Town Halls `studioId` and that `platformAccountId`, passing the clip's edit id as usual. If Riverside rejects that (a studio/clip mismatch error), nothing was posted: reply `[cortex-ig] error <slug>` with the exact error and "Connect Instagram in the <clip's studio> studio in Riverside, then reply approve again." Then stop.
+2. Duplicate check: `social_list_uploads(studioId, productionId, from=<today 00:00 ET>, platform:"INSTAGRAM")` for the studio you're publishing through. If an upload of this editId exists, don't publish again; go to step 4 with that uploadId.
 3. `social_upload_create`:
    ```
    platform: "Instagram", studioId, platformAccountId,
