@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | 2026-10-16-amy-plant | Customer story | Video (26s), source: Amy Shares How a Little Plant Grew a Community, cover: type-led cream | previewed | | |
 | 2026-10-15 | 2026-10-15-care-den-featured | Featured community | Carousel (5), cover: phone mockup of directory listing | posted | approved by Clay in thread; Windsor call timed out but post confirmed live via get_data | media 18098680775081418 |
 | 2026-10-14 | dewayne-mission | Customer story | Video (27s), source: Dewayne Overcomes Fear to Share Business Truths Online, cover: type-led night (mission quote) | posted | approved by Clay 10/14 | uploadId 3511677a-4443-4648-bc0a-ff0b4d72be3c, https://www.instagram.com/reel/Dee0Fsek0do/ |
 | 2026-10-14 | dewayne-honesty | Customer story | Video (24s), source: Dewayne Overcomes Fear to Share Business Truths Online, cover: type-led night | deleted | | |

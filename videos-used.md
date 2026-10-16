@@ -4,6 +4,7 @@ One row per video draft, newest first, so no clip runs twice. A clip counts as u
 
 | Date (ET) | Slug | Source edit id | Source title | Kept range (ms) | Clone edit id | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | 2026-10-16-amy-plant | 6a021a40295aeb75b254ebb0 | Amy Shares How a Little Plant Grew a Community | 0-22875 (whole clip) + 3s light stinger | 6ad2208ec7a4c498783b68e5 | drafted |
 | 2026-10-14 | 2026-10-14-dewayne-mission | 6ab2869a48f917270df197d7 | Dewayne Overcomes Fear to Share Business Truths Online | 0-24008 + 3s stinger (same cut as dewayne-honesty, new cover/caption, lower third added) | 6acfacc9662fc6df0149a79b | posted (reposts deleted dewayne-honesty) |
 | 2026-10-14 | 2026-10-14-dewayne-honesty | 6ab2869a48f917270df197d7 | Dewayne Overcomes Fear to Share Business Truths Online | 0-24008 (dangling "And if you just trust me," cut) | 6acfa42d1221375b5dffe73d (same clone as the test) | drafted |
 | 2026-10-14 | 2026-10-14-test-dewayne-honesty | 6ab2869a48f917270df197d7 | Dewayne Overcomes Fear to Share Business Truths Online | 0-25584 (source edit playable time; last ~3s of silence cut) | 6acfa42d1221375b5dffe73d | test |
