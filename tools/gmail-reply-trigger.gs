@@ -42,7 +42,8 @@ function checkForReplies() {
   const props = PropertiesService.getScriptProperties();
   const threads = GmailApp.search('subject:"IG draft:" newer_than:2d', 0, 10);
   threads.forEach(function (t) {
-    const msgs = t.getMessages();
+    // Skip unsent drafts: Gmail autosaves a reply while Clay is typing it.
+    const msgs = t.getMessages().filter(function (m) { return !m.isDraft(); });
     if (msgs.length < 2) return;                   // nothing to reply to yet
     const last = msgs[msgs.length - 1];
     const id = last.getId();
@@ -58,6 +59,6 @@ function checkForReplies() {
 function testFire() {
   const t = GmailApp.search('subject:"IG draft:"', 0, 1)[0];
   if (!t) { Logger.log('No IG draft thread found'); return; }
-  fire_('REPLY RECEIVED threadId=' + t.getId() + ' messageId=' + t.getMessages().pop().getId() +
+  fire_('REPLY RECEIVED threadId=' + t.getId() + ' messageId=' + t.getMessages().filter(function (m) { return !m.isDraft(); }).pop().getId() +
     ' (setup test from the Apps Script; follow ROUTINE.md step 1 for this thread only)');
 }
