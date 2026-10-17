@@ -5,6 +5,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
 | 2026-10-17 | 2026-10-17-one-login-instead-of-six | Feature, shown | Carousel (5), cover: product photo collage | previewed | | |
+| 2026-10-17 | 2026-10-17-13000-communities | Proof in numbers | Image (1), cover: big serif number on cream | previewed | | |
 | 2026-10-16 | 2026-10-16-amy-plant | Customer story | Video (26s), source: Amy Shares How a Little Plant Grew a Community, cover: type-led cream | previewed | | |
 | 2026-10-15 | 2026-10-15-care-den-featured | Featured community | Carousel (5), cover: phone mockup of directory listing | posted | approved by Clay in thread; Windsor call timed out but post confirmed live via get_data | media 18098680775081418 |
 | 2026-10-14 | dewayne-mission | Customer story | Video (27s), source: Dewayne Overcomes Fear to Share Business Truths Online, cover: type-led night (mission quote) | posted | approved by Clay 10/14 | uploadId 3511677a-4443-4648-bc0a-ff0b4d72be3c, https://www.instagram.com/reel/Dee0Fsek0do/ |
@@ -22,3 +23,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-14 | 2026-10-14-dewayne-honesty | Customer story | Video (27s), source: Dewayne Overcomes Fear to Share Business Truths Online | deleted | approved, then Clay deleted it: cover quote was skeptical and read as grammatically wrong; reposting as dewayne-mission | uploadId 2bbabcba-92b9-44dd-aa8c-3782baf5be2a, IG id DeeyVnBEYUA |
 | 2026-10-16 | 2026-10-16-amy-plant | Customer story | Video (26s), source: Amy Shares How a Little Plant Grew a Community | posted | skipped at 11:00 (feedback, no approval word); Clay then replied approved, post now | uploadId c73e2777-23b3-467b-9fd9-986f4ab7aaaa, https://www.instagram.com/reel/Dej0ij6DNL3/ |
 | 2026-10-17 | 2026-10-17-one-login-instead-of-six | Feature, shown | Carousel (5) | posted | Clay approved 09:56 ET; published 13:5x ET via manual Reply run | media 18130090798828061 |
+| 2026-10-17 | 2026-10-17-13000-communities | Proof in numbers | Image (1), cover: big serif number on cream | previewed | | |
