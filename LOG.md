@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-18 | 2026-10-18-liz-yes-no-ps | Playbook / tips | Video (41s), source: The Power of Yes or No Questions in Email Marketing (Liz Wilcox webinar), cover: type-led cream | previewed | | |
 | 2026-10-17 | 2026-10-17-one-login-instead-of-six | Feature, shown | Carousel (5), cover: product photo collage | previewed | | |
 | 2026-10-17 | 2026-10-17-13000-communities | Proof in numbers | Image (1), cover: big serif number on cream | posted | Clay approved with caption edit 14:37 ET; published via Reply run | media 18466183777187630 |
 | 2026-10-16 | 2026-10-16-amy-plant | Customer story | Video (26s), source: Amy Shares How a Little Plant Grew a Community, cover: type-led cream | previewed | | |
