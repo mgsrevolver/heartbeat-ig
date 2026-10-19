@@ -37,6 +37,20 @@ Newest first. The routine adds these when Clay's reply contains a standing instr
 
 Format mix: half the days are Riverside video clips (see VIDEO.md). The other half: mostly carousels and rendered reels, with the odd single image. Try new formats too: "guess the number" reels, before/after, POV, tier lists, "things nobody tells you", screenshot teardowns.
 
+## Carousel mechanics (ideas, not a rotation)
+
+Source: a @yoursocialteam carousel (10/7) on "swipe-mechanic" carousel types. It got 9.4K likes, 12.7K shares and 10.1K comments, but most comments came from a "comment DROPS" keyword CTA, so don't credit the mechanic alone. Treat these as tricks to apply to any pillar when the content suits it. All are plain 1080x1350 HTML slides through `tools/render.py`; no animation tooling needed. Check the last 3 formats in LOG.md and don't use the same mechanic twice in a row. Slide 1 still follows the cover rules above.
+
+| Mechanic | What the swipe does | How to build it | Good for |
+|---|---|---|---|
+| **Traveling icon** | One object (a heart, a coin, a cursor, a community avatar) slides across slide edges, so each swipe moves it along and the text lands where it stops | Lay out one wide canvas (1080 x N slides) in one HTML, then render each slide as the same canvas shifted by `-1080 * i`. Objects cross the seam on purpose | Step-by-step journeys: "from 0 members to first $1K", how a member moves from signup to paying |
+| **Swipe to zoom in** | The same image or phone screenshot gets bigger each slide until one detail fills the frame | Same asset on every slide, `transform: scale()` grows per slide, final slide is the detail with a one-line caption | Feature, shown: zoom from the whole community app into the one setting or number that matters |
+| **Swipe to reveal** | A photo or screenshot starts pixelated or blurred and sharpens each slide; the clear version is the last slide | Pixelate in the browser with a canvas (`imageSmoothingEnabled=false`, draw small then scale up) at 4 to 5 steps. "Hold the dots and swipe to reveal" line at the bottom | Featured community (reveal the listing), guess-the-number, "what a $X community looks like" |
+| **Walking through slides** | A reusable template: intro, one fact per slide over a consistent background, a proof screenshot, a CTA slide | Fixed background photo, one line per slide, one `.shot` frame for the proof screenshot. Close on the comment-keyword CTA | Intros of our own account, featured community profiles, "who we help" |
+| **Comment-keyword CTA** | Ends on "Comment WORD and we'll send you X" | Caption CTA only. Needs a DM automation behind it (SetSmart has comment-trigger tools), so propose it to Clay, don't promise a send the routine can't make | Playbook posts that map to a guide on heartbeat.chat |
+
+Rules for these: true content first (the mechanic never replaces a real number, listing or screenshot), reveal and zoom must end on something worth the swipe, and keep the same copy rules and numbers rules as every other post.
+
 ## Sources the routine can use (cloud)
 
 - Public site: heartbeat.chat (directory, stories, features, pricing, tools, blog, /for, /compare). Screenshot or screen-record with headless Chromium at 1080 wide or a 430px mobile viewport, device scale 2.
