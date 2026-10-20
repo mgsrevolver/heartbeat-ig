@@ -4,6 +4,7 @@ One row per video draft, newest first, so no clip runs twice. A clip counts as u
 
 | Date (ET) | Slug | Source edit id | Source title | Kept range (ms) | Clone edit id | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | 2026-10-20-liz-real-customers | 6967eb7f934a2649e1568121 | Liz Wilcox on the Power of Real Customer Feedback (Liz Wilcox, Email Engagement webinar) | 0-19954 (whole clip) + 3s light stinger | 6ad767bcb8624f414d12f3dd | drafted |
 | 2026-10-18 | 2026-10-18-liz-yes-no-ps | 6967eb7f934a2649e156810c | The Power of Yes or No Questions in Email Marketing (Liz Wilcox, Email Engagement webinar) | 0-37798 + 3s light stinger | 6ad4c333f9fed81b75854b28 | drafted |
 | 2026-10-16 | 2026-10-16-amy-plant | 6a021a40295aeb75b254ebb0 | Amy Shares How a Little Plant Grew a Community | 0-22875 (whole clip) + 3s light stinger | 6ad2208ec7a4c498783b68e5 | drafted |
 | 2026-10-14 | 2026-10-14-dewayne-mission | 6ab2869a48f917270df197d7 | Dewayne Overcomes Fear to Share Business Truths Online | 0-24008 + 3s stinger (same cut as dewayne-honesty, new cover/caption, lower third added) | 6acfacc9662fc6df0149a79b | posted (reposts deleted dewayne-honesty) |

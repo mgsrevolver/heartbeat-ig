@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-10-20 | 2026-10-20-liz-real-customers | Playbook / tips | Video (23s), source: Liz Wilcox on the Power of Real Customer Feedback (Email Engagement webinar), cover: type-led night | previewed | | |
 | 2026-10-19 | 2026-10-19-expressions-online | Featured community | Carousel (5), cover: blue ripple + community logo | posted | Clay replied "post as is" 09:51 ET (cover water-photo request not possible, no licensed photo); published via Reply run | media 18412209922085539 |
 | 2026-10-18 | 2026-10-18-liz-yes-no-ps | Playbook / tips | Video (41s), source: The Power of Yes or No Questions in Email Marketing (Liz Wilcox webinar), cover: type-led cream | previewed | | |
 | 2026-10-17 | 2026-10-17-one-login-instead-of-six | Feature, shown | Carousel (5), cover: product photo collage | previewed | | |
