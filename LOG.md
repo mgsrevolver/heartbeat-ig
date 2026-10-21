@@ -28,3 +28,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-17 | 2026-10-17-one-login-instead-of-six | Feature, shown | Carousel (5) | posted | Clay approved 09:56 ET; published 13:5x ET via manual Reply run | media 18130090798828061 |
 | 2026-10-17 | 2026-10-17-13000-communities | Proof in numbers | Image (1), cover: big serif number on cream | posted | Clay approved with caption edit 14:37 ET; published via Reply run | media 18466183777187630 |
 | 2026-10-18 | 2026-10-18-liz-yes-no-ps | Playbook / tips | Video (41s), source: The Power of Yes or No Questions in Email Marketing | publishing | Clay approved 13:09 ET; published via Town Halls studio | uploadId 9ec3d3c0-bdff-42c6-877c-ebf66b5f1a2a |
+| 2026-10-21 | 2026-10-21-what-to-charge | Tool demo | Reel (6 scenes, 19.5s), cover: calculator form screenshot + headline | previewed | | |
