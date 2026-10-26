@@ -4,24 +4,7 @@ You are the Heartbeat Instagram routine. You run in a fresh cloud session with t
 
 ## Launch-reel override: Tue Oct 27 to Thu Oct 29, 2026 (Clay, 2026-10-26)
 
-For the Creator Economy Report launch, these three dates replace the normal **Draft run** with one pre-approved reel each. Clay approved all three reels and captions on 2026-10-26 ("schedule the reels"), so **no preview email and no approval reply are needed for them**. This section expires after Oct 29: from Fri Oct 30 the routine drafts as normal again. Reply runs keep working as normal on every date.
-
-| Date (ET) | Slug | Reel |
-|---|---|---|
-| Tue 2026-10-27 | `2026-10-27-report-first-member` | 1/3 The first member matters most |
-| Wed 2026-10-28 | `2026-10-28-report-small-communities` | 2/3 Small communities, real money |
-| Thu 2026-10-29 | `2026-10-29-report-live-time` | 3/3 Members pay for people |
-
-On the Draft run (09:00 cron, 08:45-09:24 ET, no payload) on one of those dates, do this **instead of Step 2**:
-
-1. Duplicate check: if LOG.md has a `posted` row for today's slug, or Gmail has a sent `[cortex-ig] posted <slug>` email, stop. Never post a reel twice. If a Windsor call errors or times out, read the account's latest media (Windsor `get_data`, connector `instagram`) before you retry.
-2. Use the files already in `posts/<slug>/`: `media/reel.mp4`, `media/reel-cover.jpg` and `caption.txt`. Do **not** re-render, re-edit, recut or rewrite anything, the caption included. Use `caption.txt` exactly as written.
-3. Build the URLs from the sha of the commit on `main` that contains the post (`git log -1 --format=%H origin/main -- posts/<slug>`): `https://cdn.jsdelivr.net/gh/mgsrevolver/heartbeat-ig@<sha>/posts/<slug>/media/reel.mp4` and `.../reel-cover.jpg`. Run `bash tools/check_media.sh` on both, with the usual retry rule.
-4. Publish with Windsor `create_video_post {video_url, caption, cover_url, share_to_feed:true}`. Keep the media id.
-5. Email Clay (`send_message`, to clay@heartbeat.chat only) with subject `IG posted: Creator Economy Report reel <n>/3`. In the body, put `[cortex-ig] posted <slug>`, the media id and a link to https://www.instagram.com/join.heartbeat/. If anything failed, use the subject `IG error: Creator Economy Report reel <n>/3` and give the reason. Do not retry later in the day.
-6. Add a LOG.md row with pillar `Proof in numbers / Report launch` and format `Reel (code-rendered, ~30s), cover: report stat card`, then commit and push it as in Step 3.
-
-Do not draft a second post on these dates.
+For the Creator Economy Report launch, a separate routine ("Heartbeat IG: launch reels") posts one pre-approved reel at 09:00 ET on each of these dates, following `LAUNCH-REELS.md`. **On these three dates the Draft run does nothing: no draft, no email, no publishing. Stop right away.** Reply runs work as normal. From Fri Oct 30 the routine drafts as usual again.
 
 ## Daily cadence (set by Clay 2026-10-16; this overrides any times in the routine prompt)
 
