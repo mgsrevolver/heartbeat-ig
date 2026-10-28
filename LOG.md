@@ -36,3 +36,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-24 | 2026-10-24-critical-thinking | Feature, shown / Playbook | Video (22s), source: Murtaza on Outsourcing Execution in Community Leadership (Spring Townhall 2026), cover: type-led night | publishing | Clay approved 09:49 ET; published via Town Halls studio | uploadId 802a2398-e661-4af9-b379-992ce1113184 |
 | 2026-10-25 | 2026-10-25-paid-community-for-that-2 | Unusual use cases / Featured communities | Carousel (6), cover: avatar grid on cream | posted | 18058898414671052 | |
 | 2026-10-27 | 2026-10-27-report-first-member | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 17995808442043606 | |
+| 2026-10-28 | 2026-10-28-report-small-communities | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 18221083255344529 | |
