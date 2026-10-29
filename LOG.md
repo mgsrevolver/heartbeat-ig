@@ -37,3 +37,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-25 | 2026-10-25-paid-community-for-that-2 | Unusual use cases / Featured communities | Carousel (6), cover: avatar grid on cream | posted | 18058898414671052 | |
 | 2026-10-27 | 2026-10-27-report-first-member | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 17995808442043606 | |
 | 2026-10-28 | 2026-10-28-report-small-communities | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 18221083255344529 | |
+| 2026-10-29 | 2026-10-29-report-live-time | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 18141263170536026 | |
