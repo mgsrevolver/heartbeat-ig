@@ -38,4 +38,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-10-27 | 2026-10-27-report-first-member | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 17995808442043606 | |
 | 2026-10-28 | 2026-10-28-report-small-communities | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 18221083255344529 | |
 | 2026-10-29 | 2026-10-29-report-live-time | Proof in numbers / Report launch | Reel (code-rendered, ~30s), cover: report stat card | posted | 18141263170536026 | |
-| 2026-10-30 | 2026-10-30-emily-499-nos | Customer story / Playbook | Video (23s+3s stinger), source: Emily Claire Hughes on Rejection, Imposter Syndrome, and Raising Her Prices, cover: cream big serif number | previewed | | |
+| 2026-10-30 | 2026-10-30-emily-499-nos | Customer story / Playbook | Video (23s+3s stinger), source: Emily Claire Hughes on Rejection, Imposter Syndrome, and Raising Her Prices, cover: cream big serif number | skipped | | |

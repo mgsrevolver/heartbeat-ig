@@ -4,6 +4,7 @@ One row per video draft, newest first, so no clip runs twice. A clip counts as u
 
 | Date (ET) | Slug | Source edit id | Source title | Kept range (ms) | Clone edit id | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | 2026-10-30-6-figure-launch | 72dc712045f758afd498594d | 6-Figure Launch on Heartbeat (Clay's cut, transcript unreadable) | not cut | 6ae4a6f80ce5b943f2503675 | clone only, awaiting transcript from Clay |
 | 2026-10-30 | 2026-10-30-emily-499-nos | 6ab2965c2106484ae17fca69 | Emily Claire Hughes on Rejection, Imposter Syndrome, and Raising Her Prices | 0-22947 + 3s light stinger | 6ae49812da3f6d29f5487384 | drafted |
 | 2026-10-24 | 2026-10-24-critical-thinking | 69e15724a98ba320f22cf2f1 | Murtaza on Outsourcing Execution in Community Leadership (Spring Townhall 2026) | 0-19542 (whole clip) + 3s light stinger | 6adcad757bbca9397b7765a3 | drafted |
 | 2026-10-22 | 2026-10-22-dewayne-engagement | 6ab2869a48f917270df197dd | Dewayne Williams on Reducing Complaints Through Engagement | 0-34674 + 3s light stinger | 6ada0b36be49492f291c51c8 | drafted |
