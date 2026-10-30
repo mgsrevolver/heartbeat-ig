@@ -4,6 +4,7 @@ One row per video draft, newest first, so no clip runs twice. A clip counts as u
 
 | Date (ET) | Slug | Source edit id | Source title | Kept range (ms) | Clone edit id | Status |
 |---|---|---|---|---|---|---|
+| 2026-10-30 | 2026-10-30-emily-499-nos | 6ab2965c2106484ae17fca69 | Emily Claire Hughes on Rejection, Imposter Syndrome, and Raising Her Prices | 0-22947 + 3s light stinger | 6ae49812da3f6d29f5487384 | drafted |
 | 2026-10-24 | 2026-10-24-critical-thinking | 69e15724a98ba320f22cf2f1 | Murtaza on Outsourcing Execution in Community Leadership (Spring Townhall 2026) | 0-19542 (whole clip) + 3s light stinger | 6adcad757bbca9397b7765a3 | drafted |
 | 2026-10-22 | 2026-10-22-dewayne-engagement | 6ab2869a48f917270df197dd | Dewayne Williams on Reducing Complaints Through Engagement | 0-34674 + 3s light stinger | 6ada0b36be49492f291c51c8 | drafted |
 | 2026-10-20 | 2026-10-20-liz-real-customers | 6967eb7f934a2649e1568121 | Liz Wilcox on the Power of Real Customer Feedback (Liz Wilcox, Email Engagement webinar) | 0-19954 (whole clip) + 3s light stinger | 6ad767bcb8624f414d12f3dd | posted, then Clay deleted it (repeated "the more...get" at start); recut 1838-3769ms, revised preview sent |
