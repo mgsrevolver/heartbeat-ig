@@ -4,7 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
-| 2026-10-31 | 2026-10-31-collectively-sustainable | Featured community | Carousel (5), cover: community logo on cream | previewed | | |
+| 2026-10-31 | 2026-10-31-collectively-sustainable | Featured community | Carousel (5), cover: community logo on cream | posted | 17922686226443847 | |
 | 2026-10-24 | 2026-10-24-critical-thinking | Feature, shown (Pulse / playbook) | Video (22s), source: Spring Townhall 2026 (Murtaza on outsourcing execution), cover: type-led night | previewed | | |
 | 2026-10-23 | 2026-10-23-click-academy | Featured community | Carousel (5), cover: gradient + community logo | posted | 18109552019231994 | Clay approved 09:21 ET |
 | 2026-10-20 | 2026-10-20-liz-real-customers | Playbook / tips | Video (21s), source: Liz Wilcox on the Power of Real Customer Feedback (Email Engagement webinar), cover: type-led night | publishing | First cut deleted by Clay (loop at start). Recut approved 10:31 ET, sent to Instagram 10:33 ET, rendering | uploadId 3c08c2c6-2d05-40a5-9533-0d4c8a15a4a3 (first, deleted: 21e0c518-b8f4-41e3-b349-ceb69733a530) |
