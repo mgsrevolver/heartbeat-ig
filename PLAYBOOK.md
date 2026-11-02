@@ -22,6 +22,7 @@ Newest first. The routine adds these when Clay's reply contains a standing instr
 - 2026-10-12: **Never share low numbers. We want to appear bigger.** Lead with the biggest figure ($27M+ paid out, 37,000+ communities, 750,000+ members). Don't publish the small milestone counts (1,100+ past $1K, 400+ past $10K). For $100K earners, say "dozens of creators have earned over $100K", not "50+". Small numbers about *a creator's* starting point are fine as story ("every community starts at zero").
 
 - 2026-10-12: **No Creator Economy Report survey content** (stats, quotes, "take the survey") until Clay says the survey is closed. Three survey posts already ran 10/10-10/11. Once he says it's closed, the published report becomes a pillar.
+- 2026-11-01 (Clay): **Every interview clip names the speaker and their community/company/institution/brand in a lower third above their head, for the first ~2 seconds.** Standard practice (VIDEO.md step 7).
 - 2026-10-12: Default to one post a day. Reels and carousels over single images.
 
 ## Pillars (rotate; don't repeat the last two)
