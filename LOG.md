@@ -4,7 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
-| 2026-11-03 | 2026-11-03-workflows-autopilot | Feature, shown | Carousel (6), cover: when/then workflow cards on cream | previewed | | |
+| 2026-11-03 | 2026-11-03-workflows-autopilot | Feature, shown | Carousel (6), cover: when/then workflow cards on cream | posted | 18069542051787767 | Inter-only re-render per Clay |
 | 2026-10-31 | 2026-10-31-collectively-sustainable | Featured community | Carousel (5), cover: community logo on cream | posted | 17922686226443847 | |
 | 2026-10-24 | 2026-10-24-critical-thinking | Feature, shown (Pulse / playbook) | Video (22s), source: Spring Townhall 2026 (Murtaza on outsourcing execution), cover: type-led night | previewed | | |
 | 2026-10-23 | 2026-10-23-click-academy | Featured community | Carousel (5), cover: gradient + community logo | posted | 18109552019231994 | Clay approved 09:21 ET |
