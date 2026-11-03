@@ -67,7 +67,7 @@ Rules for these: true content first (the mechanic never replaces a real number, 
 ## Brand
 
 - Colours: cream `#FFF7F0` background, ink `#1F1418`, logo gradient `#F91E87 → #FD8467 → #FFBA54` (left to right). Night `#0A0D12` for contrast posts.
-- Type: Inter (bold/extra-bold headlines, regular body) + Instrument Serif italic for the emphasis word and big numbers. Both are in `fonts/`, wired up via `{{BRAND}}`.
+- Type: Inter (bold/extra-bold headlines, regular body) only (weights 400-800), also for the emphasis word and big numbers. **No serif or italic display fonts** (Clay, 2026-11-03). Font is in `fonts/`, wired up via `{{BRAND}}`.
 - Every feed slide and reel ends with the wordmark (`brand/heartbeat-wordmark-black.svg` on light, `-white` on dark/gradient). Never recreate the logo in text.
 - Components in `tools/brand.css`: `.pill .big .head em .sub .card .split .list .li .quote .shot .phone .cta .foot .reel-foot`.
 - Reels: 1080x1920. Keep text out of the top 220px and the bottom 340px (IG UI). Hook on screen in the first second. 7-30s. Hard cuts or 0.2s fades. Hold the payoff beat longer.
