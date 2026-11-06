@@ -1,14 +1,30 @@
 <!doctype html><html><head><meta charset="utf-8">{{BRAND}}
 <style>
-body{margin:0;width:1080px;height:1920px;background:#0A0D12;color:#fff;font-family:Inter,sans-serif;position:relative;overflow:hidden}
-.k{position:absolute;left:90px;top:600px;font-weight:700;font-size:38px;letter-spacing:4px;text-transform:uppercase;color:#FD8467}
-.t{position:absolute;left:90px;right:90px;top:690px;font-weight:800;font-size:108px;line-height:1.06;letter-spacing:-3px}
-.t span{background:linear-gradient(90deg,#F91E87,#FD8467,#FFBA54);-webkit-background-clip:text;color:transparent}
-.s{position:absolute;left:90px;top:1340px;font-size:44px;font-weight:500;opacity:.85}
-.w{position:absolute;left:90px;bottom:360px;height:60px}
+body{margin:0;width:1080px;height:1920px;background:#FFF7F0;color:#1F1418;font-family:Inter,sans-serif;position:relative;overflow:hidden}
+.k{position:absolute;left:90px;top:330px;font-weight:700;font-size:36px;letter-spacing:4px;text-transform:uppercase;color:#F91E87}
+.h{position:absolute;left:90px;right:90px;top:395px;font-weight:800;font-size:92px;line-height:1.05;letter-spacing:-2.5px}
+.list{position:absolute;left:70px;right:70px;top:760px;display:flex;flex-direction:column;gap:30px}
+.row{display:flex;align-items:center;gap:26px;background:#fff;border:2px solid #F3DCD3;border-radius:34px;padding:34px 36px;font-size:44px;font-weight:600;line-height:1.2}
+.row .tx{flex:1}
+.row .from{display:block;font-size:26px;font-weight:500;color:#6E5F64;margin-bottom:8px}
+.bad{opacity:.5}
+.bad .tx{text-decoration:line-through;text-decoration-thickness:3px;text-decoration-color:#C23A3A}
+.good{border:5px solid #1FA25A;box-shadow:0 24px 70px rgba(31,162,90,.28);transform:scale(1.04);background:#fff}
+.good .tx{font-weight:800;font-size:50px}
+.ic{width:84px;height:84px;border-radius:50%;flex:none;display:flex;align-items:center;justify-content:center}
+.ic.x{background:#FBE3E3}.ic.v{background:#1FA25A}
+.ic svg{width:44px;height:44px}
+.s{position:absolute;left:90px;top:1500px;font-size:40px;font-weight:600}
+.s b{font-weight:800}
+.w{position:absolute;left:90px;top:1580px;height:54px}
 </style></head><body>
 <div class="k">Email tip</div>
-<div class="t">The emails that get opened come from <span>a real person.</span></div>
-<div class="s">Liz Wilcox, email marketing expert</div>
-<img class="w" src="{{ROOT}}/brand/heartbeat-wordmark-white.svg">
+<div class="h">Which one gets opened?</div>
+<div class="list">
+ <div class="row bad"><div class="tx"><span class="from">Big Store Deals</span>Door buster deals for Black Friday!</div><div class="ic x"><svg viewBox="0 0 24 24" fill="none" stroke="#C23A3A" stroke-width="3.5" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></div></div>
+ <div class="row bad"><div class="tx"><span class="from">The Company Team</span>WEEKLY NEWSLETTER: NEW CONTENT INSIDE</div><div class="ic x"><svg viewBox="0 0 24 24" fill="none" stroke="#C23A3A" stroke-width="3.5" stroke-linecap="round"><path d="M5 5l14 14M19 5L5 19"/></svg></div></div>
+ <div class="row good"><div class="tx"><span class="from">A real person</span>saw this and thought of you...</div><div class="ic v"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12.5l5 5L20 6.5"/></svg></div></div>
+</div>
+<div class="s"><b>Liz Wilcox,</b> email marketing expert</div>
+<img class="w" src="{{ROOT}}/brand/heartbeat-wordmark-black.svg">
 </body></html>
