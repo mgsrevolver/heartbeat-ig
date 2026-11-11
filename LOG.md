@@ -50,4 +50,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-09 | 2026-11-09-emily-passion-project | Customer story / Playbook | Video (49s incl. 3s stinger), source: Email Club Pricing Journey and Lessons Learned, cover: cream type-led gradient number | declined (Clay: no more Emily/Kat/Mac stories) | | |
 | 2026-11-10 | 2026-11-10-governance-hub | Featured community | Carousel (5), cover: gradient type-led | posted (card 1 edited per Clay) | 18343778911287010 | https://www.instagram.com/join.heartbeat/ |
 | 2026-11-11 | 2026-11-11-onboarding-first-win | Playbook / tips | Video (57s), cover: cream type-led | skipped | Clay: slide cropped; chose a different clip | |
-| 2026-11-11 | 2026-11-11-liz-nosy-inbox | Playbook / tips | Video (39s incl. 3s stinger), source: Liz Wilcox on How to Hook People with Emails, cover: night type-led | previewed | | |
+| 2026-11-11 | 2026-11-11-liz-nosy-inbox | Playbook / tips | Video (39s incl. 3s stinger), source: Liz Wilcox on How to Hook People with Emails, cover: night type-led | posted | 5fd05158-3bb8-402f-9681-dd722a97669a | https://www.instagram.com/reel/Dfm73uZhpNd/ |
