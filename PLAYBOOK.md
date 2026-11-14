@@ -8,6 +8,8 @@
 
 Newest first. The routine adds these when Clay's reply contains a standing instruction.
 
+- 2026-11-14: No more Liz Wilcox clips; we've posted too many. Pick other interviews. Clay suggested the newest interview/customer story (Molly Mahar, Stratejoy, now published at heartbeat.chat/stories).
+
 - 2026-11-09: No more Emily (10K Email Club), Kat, Mac consulting etc. stories. The old case studies are stretched too thin; we talk about the same 2 customers week in, week out. Pick other customers/communities or other material.
 
 - 2026-11-01: **Heartbeat wordmark on video: always the white version, semi-transparent (~60% opacity), top right corner, small (~22% of frame width). Captions always in the lower third (y≈0.95). The two must never overlap.** The 11/01 un autre atelier reel went live with the wordmark at the bottom, under the captions, and Clay deleted it. Use `brand/heartbeat-wordmark-white.png` (Riverside media id `6ae7e3fa0df27bfbcc2aa3ae`), never the old `Picture1.png` overlay (clip from the magic clips sits at the bottom). Check before sending the preview: read the timeline and confirm the logo's position y<0.1 and captions y>0.9.
