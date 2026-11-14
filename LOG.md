@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-14 | 2026-11-14-liz-internet-gods | Playbook / tips | Video (57s incl. 3s stinger), source: Liz Wilcox, Email Marketing: The Power of Replies (Email Engagement webinar), cover: cream type-led | previewed | | |
 | 2026-11-11 | 2026-11-11-onboarding-first-win | Playbook / tips | Video (54s incl. 3s stinger), source: Onboarding Challenge: Quick Wins for New Members (Heather Angel webinar), cover: cream type-led + checklist | previewed | | |
 | 2026-11-03 | 2026-11-03-workflows-autopilot | Feature, shown | Carousel (6), cover: when/then workflow cards on cream | posted | 18069542051787767 | Inter-only re-render per Clay |
 | 2026-10-31 | 2026-10-31-collectively-sustainable | Featured community | Carousel (5), cover: community logo on cream | posted | 17922686226443847 | |
