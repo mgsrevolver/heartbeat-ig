@@ -34,6 +34,7 @@ All at `https://www.heartbeat.chat/story/<slug>`. Fetch the page for details and
 | NocodeHackers | 5X revenue after leaving Discord | how-nocodehackers-5x-revenue-after-migrating-from-discord-to-heartbeat |
 | The 10K Email Club | zero sign-ups to $160K a year | how-the-10k-email-club-grew-to-160k-a-year-on-heartbeat |
 | un autre atelier | art academy for 900 paying students | how-un-autre-atelier-built-an-art-academy-for-900-paying-students-on-heartbeat |
+| Stratejoy | makes $350K/year after leaving Facebook (headline on /stories 2026-11-14; fetch page before using) | how-stratejoy-rebuilt-to-350k-a-year-on-heartbeat |
 | VetCircle | 300 veterinary practices, branded app | how-vetcircle-grew-to-300-veterinary-practices-with-a-branded-app-on-heartbeat |
 
 Check heartbeat.chat/stories for new ones.
