@@ -8,6 +8,7 @@
 
 Newest first. The routine adds these when Clay's reply contains a standing instruction.
 
+- 2026-11-14 (Clay, Molly draft): Never use a pull quote that suggests Heartbeat or our approach "won't fly for a lot of folks", or any line that reads as doubt about the product. Cut clips before such lines and keep captions positive.
 - 2026-11-14: No more Liz Wilcox clips; we've posted too many. Pick other interviews. Clay suggested the newest interview/customer story (Molly Mahar, Stratejoy, now published at heartbeat.chat/stories).
 
 - 2026-11-09: No more Emily (10K Email Club), Kat, Mac consulting etc. stories. The old case studies are stretched too thin; we talk about the same 2 customers week in, week out. Pick other customers/communities or other material.
