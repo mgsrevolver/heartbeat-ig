@@ -56,4 +56,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-14 | 2026-11-14-liz-internet-gods | Playbook / tips | Video (57s), cover: cream type-led | dropped (Clay: no more Liz Wilcox clips) | | |
 | 2026-11-14 | 2026-11-14-molly-not-a-business | Customer story | Video (24s incl. 3s stinger), source: Running a Community, Not a Business (Molly Mahar, Stratejoy), cover: night type-led | revised (Clay: bad pull quote; cut 'can't see this flying' ending, now 21s) | | |
 | 2026-11-15 | 2026-11-15-devotion-lab | Featured community | Carousel (5), cover: night + community logo | previewed | | |
-| 2026-11-16 | 2026-11-16-merch-infrastructure | Playbook / tips | Video (36s incl. 3s stinger), source: Marz, merch for retention webinar, cover: cream type-led gradient word | previewed | | |
+| 2026-11-16 | 2026-11-16-merch-infrastructure | Playbook / tips | Video (36s incl. 3s stinger), source: Marz, merch for retention webinar, cover: cream type-led gradient word | publishing (Clay approved, edited in Riverside) | 85b99e20-bba8-4173-bb68-161ea5aaea97 | |

@@ -8,6 +8,7 @@
 
 Newest first. The routine adds these when Clay's reply contains a standing instruction.
 
+- 2026-11-16 (Clay, merch approval): Video edits in Riverside should include the speaker name top left, caption highlight color pink, caption font size 64, and fast, short pacing. Clay applied these by hand to the merch clone; make them the default.
 - 2026-11-14 (Clay, Molly draft): Never use a pull quote that suggests Heartbeat or our approach "won't fly for a lot of folks", or any line that reads as doubt about the product. Cut clips before such lines and keep captions positive.
 - 2026-11-14: No more Liz Wilcox clips; we've posted too many. Pick other interviews. Clay suggested the newest interview/customer story (Molly Mahar, Stratejoy, now published at heartbeat.chat/stories).
 
