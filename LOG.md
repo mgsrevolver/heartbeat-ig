@@ -4,7 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
-| 2026-11-17 | 2026-11-17-what-it-costs | Feature, shown (pricing) | Carousel (5), cover: three plan price cards on cream | previewed | | |
+| 2026-11-17 | 2026-11-17-what-it-costs | Feature, shown (pricing) | Carousel (5), cover: three plan price cards on cream | declined (Clay: valueless, wanted Black Friday planning) | | |
 | 2026-11-14 | 2026-11-14-liz-internet-gods | Playbook / tips | Video (57s incl. 3s stinger), source: Liz Wilcox, Email Marketing: The Power of Replies (Email Engagement webinar), cover: cream type-led | previewed | | |
 | 2026-11-11 | 2026-11-11-onboarding-first-win | Playbook / tips | Video (54s incl. 3s stinger), source: Onboarding Challenge: Quick Wins for New Members (Heather Angel webinar), cover: cream type-led + checklist | previewed | | |
 | 2026-11-03 | 2026-11-03-workflows-autopilot | Feature, shown | Carousel (6), cover: when/then workflow cards on cream | posted | 18069542051787767 | Inter-only re-render per Clay |
@@ -58,3 +58,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-14 | 2026-11-14-molly-not-a-business | Customer story | Video (24s incl. 3s stinger), source: Running a Community, Not a Business (Molly Mahar, Stratejoy), cover: night type-led | revised (Clay: bad pull quote; cut 'can't see this flying' ending, now 21s) | | |
 | 2026-11-15 | 2026-11-15-devotion-lab | Featured community | Carousel (5), cover: night + community logo | previewed | | |
 | 2026-11-16 | 2026-11-16-merch-infrastructure | Playbook / tips | Video (36s incl. 3s stinger), source: Marz, merch for retention webinar, cover: cream type-led gradient word | publishing (Clay approved, edited in Riverside) | 85b99e20-bba8-4173-bb68-161ea5aaea97 | |
+| 2026-11-17 | 2026-11-17-black-friday-plan | Playbook / tips | Carousel (7), cover: gradient type-led | previewed | | |
