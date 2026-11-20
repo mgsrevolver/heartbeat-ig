@@ -1,6 +1,6 @@
 # Facts you can publish
 
-Approved by Clay for marketing copy (Testimonials & Metrics Cheat Sheet, updated 2026-07-10; payouts raised to $27M+ on 2026-10-08). Use these exact rounded floors. Never use exact figures, and never Heartbeat's own revenue or fundraising. If Clay sends a newer number in a reply, add it here with the date.
+Approved by Clay for marketing copy (Testimonials & Metrics Cheat Sheet, updated 2026-07-10; payouts raised to $27M+ on 2026-10-08, then $30M+ on 2026-11-20). Use these exact rounded floors. Never use exact figures, and never Heartbeat's own revenue or fundraising. If Clay sends a newer number in a reply, add it here with the date.
 
 | Say | Notes |
 |---|---|
@@ -9,7 +9,7 @@ Approved by Clay for marketing copy (Testimonials & Metrics Cheat Sheet, updated
 | 13,000+ communities created in the last 12 months | |
 | 750,000+ members | cumulative |
 | 50+ countries | |
-| $27M+ paid out to creators | through Heartbeat Payments |
+| $30M+ paid out to creators | through Heartbeat Payments |
 | 90,000+ transactions | |
 | Dozens of creators have earned over $100K | Clay's preferred wording (2026-10-12); avoid "50+" |
 | ~~400+ creators past $10K~~ | Don't publish: too small (Clay 2026-10-12) |
