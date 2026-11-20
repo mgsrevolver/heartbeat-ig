@@ -61,3 +61,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-17 | 2026-11-17-black-friday-plan | Playbook / tips | Carousel (7), cover: gradient type-led | posted (Clay approved) | 18037911791729560 | |
 | 2026-11-18 | 2026-11-18-stratejoy-yellow-heart | Customer story | Video (15s incl. 3s stinger), source: Molly Mahar: Heartbeat's Yellow Heart (Stratejoy), cover: cream + yellow heart type-led | reposted 11/18 after Clay deleted first copy (transcript fix + yellow hearts) | afa13eb5-380c-497e-b576-e3892446814c | https://www.instagram.com/reel/Df43xBzThyU/ |
 | 2026-11-19 | 2026-11-19-booked-out-collective | Featured community | Carousel (5), cover: cream + community logo | posted (Clay approved) | 18139437733638620 | |
+| 2026-11-20 | 2026-11-20-vetcircle-silo | Customer story | Video (36s incl. 3s stinger), source: Vet Circle: Supporting Independent Practice Owners (Amy, VetCircle), cover: night type-led | previewed | | |
