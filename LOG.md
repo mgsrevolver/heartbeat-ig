@@ -64,4 +64,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-20 | 2026-11-20-vetcircle-silo | Customer story | Video (36s incl. 3s stinger), source: Vet Circle: Supporting Independent Practice Owners (Amy, VetCircle), cover: night type-led | previewed | | |
 | 2026-11-20 | 2026-11-20-black-friday-live | Promotion | Carousel (5, 4:5), cover: night type-led offer (from Cortex; sale slides from brand-kit/bfcm2026-ads/ig) | posted (Clay approved, likely boosted) | 18389611054233330 | |
 | 2026-11-21 | 2026-11-21-courses-three-ways | Feature, shown | Carousel (5), cover: photo + product card on cream | previewed | | |
-| 2026-11-22 | 2026-11-22-ai-for-admin | Feature, shown | Video (36s incl. 3s stinger), source: AI for Admin, Not Members (February Townhall, Nick, Product), cover: cream type-led gradient | previewed | | |
+| 2026-11-22 | 2026-11-22-ai-for-admin | Feature, shown | Video (36s incl. 3s stinger), source: AI for Admin, Not Members (February Townhall, Nick, Product), cover: cream type-led gradient | posted (Clay approved + headline edit) | https://www.instagram.com/reel/DgDiS-qAsPG/ | |
