@@ -4,6 +4,7 @@ Newest first. The routine adds a row when it previews a post and updates it when
 
 | Date (ET) | Slug | Pillar | Format | Status | Clay said | Link |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | 2026-11-24-hire-community-manager | Playbook / tips | Video (55s incl. 3s stinger), source: Bri Leever, Hiring a Fractional Community Manager (How to Hire a Community Manager webinar), cover: night type-led | previewed | | |
 | 2026-11-17 | 2026-11-17-what-it-costs | Feature, shown (pricing) | Carousel (5), cover: three plan price cards on cream | declined (Clay: valueless, wanted Black Friday planning) | | |
 | 2026-11-14 | 2026-11-14-liz-internet-gods | Playbook / tips | Video (57s incl. 3s stinger), source: Liz Wilcox, Email Marketing: The Power of Replies (Email Engagement webinar), cover: cream type-led | previewed | | |
 | 2026-11-11 | 2026-11-11-onboarding-first-win | Playbook / tips | Video (54s incl. 3s stinger), source: Onboarding Challenge: Quick Wins for New Members (Heather Angel webinar), cover: cream type-led + checklist | previewed | | |
