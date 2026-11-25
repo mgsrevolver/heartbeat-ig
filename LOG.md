@@ -68,3 +68,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-22 | 2026-11-22-ai-for-admin | Feature, shown | Video (36s incl. 3s stinger), source: AI for Admin, Not Members (February Townhall, Nick, Product), cover: cream type-led gradient | posted (Clay approved + headline edit) | https://www.instagram.com/reel/DgDiS-qAsPG/ | |
 | 2026-11-23 | 2026-11-23-30m-paid-out | Proof in numbers | Carousel (5), cover: cream type-led big number | posted (Clay approved) | 17958931701034348 | |
 | 2026-11-25 | 2026-11-25-she-freelances | Featured community | Carousel (5), cover: night + community logo | previewed | | |
+| 2026-11-25 | 2026-11-25-black-friday-three-ways | Promotion | Carousel (5), cover: gradient type-led | previewed | | |
