@@ -70,3 +70,4 @@ Newest first. The routine adds a row when it previews a post and updates it when
 | 2026-11-25 | 2026-11-25-she-freelances | Featured community | Carousel (5), cover: night + community logo | previewed | | |
 | 2026-11-25 | 2026-11-25-black-friday-three-ways | Promotion | Carousel (5), cover: gradient type-led | dropped (Clay: do mobile app / Scale instead) | | |
 | 2026-11-25 | 2026-11-25-black-friday-branded-app | Promotion | Carousel (5), cover: cream + app-icon grid mock | posted | 18165800071528925 | |
+| 2026-11-26 | 2026-11-26-pulse-transcript-to-course | Feature, shown | Video (54s incl. 3s stinger), source: Pulse Transforms Walkthroughs into Online Courses (Spring Townhall, Nick, Product), cover: night type-led gradient words | previewed | | |
